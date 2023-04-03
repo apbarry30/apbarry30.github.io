@@ -5,15 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38b14b10-df46-438a-a5ac-09077e953ac8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/salimov/public/assets/amanda2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/1doornorth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/aletto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/asembia-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/asembia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/bight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/crypto-famous.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/e2g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/gulfstream.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/hue-it.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/ivmenow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/klover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/meijer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/play2pay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/urban-solar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/waw-web-gl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/wl-homes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/portfolio/yourchange.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salimov/pages/blog-post.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salimov/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/salimov/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/src/SalimovHead.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/SalimovHead.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/salimov/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salimov/src/components/sections/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/sections/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salimov/src/components/sections/Copyright.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/sections/Copyright.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salimov/src/components/sections/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/sections/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/src/components/sections/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/sections/Portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/amandabarry/Documents/amanda-sites/portfolio-remake/salimov/public/assets/portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,7 +63,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/salimov/public/assets/portfolio" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/salimov/public/assets/portfolio" />
       <recent name="$PROJECT_DIR$/salimov/public/assets" />
     </key>
   </component>
@@ -61,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680546747406</updated>
-      <workItem from="1680546749067" duration="4970000" />
+      <workItem from="1680546749067" duration="7841000" />
     </task>
     <servers />
   </component>

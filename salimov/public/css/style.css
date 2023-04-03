@@ -1079,9 +1079,10 @@ header .mobile-menu {
   width: 650px;
   height: 450px;
   object-fit: cover;
-  object-position: center;
+  object-position: top;
   border-radius: 20px;
   cursor: grab;
+
 }
 
 .portfolio .single-item .main-content .external {
