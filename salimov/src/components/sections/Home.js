@@ -6,18 +6,18 @@ const Home = () => {
           <h1>
             <span>
               <span className="animated-layer">
-                Hello<span>.</span>
+                Amanda<span>.</span>
               </span>
             </span>
             <span className="position-relative">
-              <span className="animated-layer">I am</span>
+              <span className="animated-layer">Barry<span>.</span></span>
               <span className="intro animated-layer">
-                Front-end Developer with 7 years experience based in London
+                Web Developer
               </span>
             </span>
-            <span>
-              <span className="animated-layer">Steven</span>
-            </span>
+            {/*<span>*/}
+            {/*  <span className="animated-layer">Amanda</span>*/}
+            {/*</span>*/}
           </h1>
         </div>
       </div>

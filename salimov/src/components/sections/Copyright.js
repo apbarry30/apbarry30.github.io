@@ -7,37 +7,37 @@ const Copyright = () => {
         src="assets/separator-copyright.png"
       />
       <div>
-        <span>© {new Date().getFullYear()} Steven Walker</span>
+        <span>© {new Date().getFullYear()} Amanda Barry</span>
         <span>
-          Designed By{" "}
+          {" "}
           <a
             target="_blank"
             href="https://themeforest.net/user/Codeefly/portfolio"
           >
-            Codeefly
+            design
           </a>
         </span>
         <ul>
           <li>
-            <a href="#">
+            <a href="https://github.com/apbarry30">
               <i className="fa-brands fa-github" />
             </a>
           </li>
-          <li>
-            <a href="#">
-              <i className="fa-brands fa-twitter" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fa-brands fa-dribbble" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fa-brands fa-facebook" />
-            </a>
-          </li>
+          {/*<li>*/}
+          {/*  <a href="#">*/}
+          {/*    <i className="fa-brands fa-twitter" />*/}
+          {/*  </a>*/}
+          {/*</li>*/}
+          {/*<li>*/}
+          {/*  <a href="#">*/}
+          {/*    <i className="fa-brands fa-dribbble" />*/}
+          {/*  </a>*/}
+          {/*</li>*/}
+          {/*<li>*/}
+          {/*  <a href="#">*/}
+          {/*    <i className="fa-brands fa-facebook" />*/}
+          {/*  </a>*/}
+          {/*</li>*/}
         </ul>
       </div>
     </section>

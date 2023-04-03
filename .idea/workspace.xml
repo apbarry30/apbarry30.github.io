@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38b14b10-df46-438a-a5ac-09077e953ac8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/portfolio-remake.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salimov/public/assets/amanda2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/pages/blog-post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/src/components/sections/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/sections/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/src/components/sections/Copyright.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/sections/Copyright.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salimov/src/components/sections/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/salimov/src/components/sections/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +48,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/salimov/public/assets" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680546747406</updated>
-      <workItem from="1680546749067" duration="771000" />
+      <workItem from="1680546749067" duration="4970000" />
     </task>
     <servers />
   </component>

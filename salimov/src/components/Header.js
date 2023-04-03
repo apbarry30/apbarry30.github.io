@@ -62,11 +62,6 @@ const Header = () => {
                 <span>Contact</span>
               </a>
             </li>
-            <li>
-              <a href="#blog">
-                <span>Blog</span>
-              </a>
-            </li>
           </ul>
         </div>
       </nav>

@@ -11,90 +11,67 @@ const About = () => {
         >
           <div>
             <div>
-              <img className="my-photo" src="assets/about.jpg" alt="" />
+              <img className="my-photo" src="assets/amanda2.jpg" alt="amanda" />
             </div>
           </div>
         </div>
         {/* IMAGE ENDS */}
         {/* INFO STARTS */}
+
         <div>
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Steven
+                Amanda
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Walker
+                Barry
               </span>
             </span>
           </h2>
           <div className="infos">
             <ul>
               <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Age :</span>
-                    <span>27 Years</span>
-                  </span>
-                </span>
+               <span>
+                    <span className="animated-layer fade-in-down-animation fadeInUp wow">
+                      <span> Location : </span>
+                      <i className="fa fa-location-dot" />
+                      <a href="tel:5163136220"> Miami, FL</a>
+                    </span>
+               </span>
               </li>
               <li>
                 <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Nationality :</span>
-                    <span>German</span>
-                  </span>
-                </span>
+                    <span className="animated-layer fade-in-down-animation fadeInUp wow">
+                      <span> Phone : </span>
+                      <i className="fa fa-phone" />
+                      <a href="tel:5163136220"> 516.313.6220</a>
+                    </span>
+               </span>
               </li>
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Freelance :</span>
-                    <span>Available</span>
-                  </span>
-                </span>
-              </li>
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Langages :</span>
-                    <span>English</span>
-                  </span>
-                </span>
-              </li>
+
+
             </ul>
             <ul>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Address :</span>
-                    <span>London</span>
+                     <span> Email : </span>
+                    <i className="fa fa-envelope" />
+
+                    <a href="mailto:amanda.paige.barry@gmail.com"> amanda.paige.barry@gmail.com</a>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Phone :</span>
-                    <span>21 184 010</span>
-                  </span>
-                </span>
-              </li>
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Email :</span>
-                    <span>contact@steven.net</span>
-                  </span>
-                </span>
-              </li>
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Skype :</span>
-                    <span>steven.walker</span>
+                    <span>LinkedIn :</span>
+                    <span>
+                    <a href="https://www.linkedin.com/in/amanda-barry22/"> linkedin.com/in/amanda-barry22/</a>
+                    </span>
                   </span>
                 </span>
               </li>
@@ -138,39 +115,22 @@ const About = () => {
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
+
           <div>
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-angularjs-plain" />
+                <i className="devicon-jquery-plain" />
               </span>
-              <h4>Angular JS</h4>
+              <h4>PHP</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-drupal-plain" />
+                <i className="devicon-jquery-plain" />
               </span>
-              <h4>Drupal</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-          </div>
-          <div>
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
-              <span>
-                <i className="devicon-react-plain" />
-              </span>
-              <h4>React JS</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
-              <span>
-                <i className="devicon-docker-plain" />
-              </span>
-              <h4>Docker</h4>
+              <h4>HTML5</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -217,48 +177,48 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Project Manager</h4>
-                  <p>
-                    <i className="fa-regular fa-clock" />
-                    <span>2019 - Now</span>
-                  </p>
-                  <p>
-                    <i className="fa-regular fa-building" />
-                    <span>Adobe Company</span>
-                  </p>
-                </div>
-              </div>
-            </li>
-            {/* TIMELINE ITEM ENDS */}
-            {/* TIMELINE ITEM STARTS */}
-            <li>
-              <div className="animated-layer fade-in-up-animation fadeInUp wow">
-                <div className="experience">
-                  <h4>Team Leader</h4>
-                  <p>
-                    <i className="fa-regular fa-clock" />
-                    <span>2015 - 2019</span>
-                  </p>
-                  <p>
-                    <i className="fa-regular fa-building" />
-                    <span>Twitter Inc</span>
-                  </p>
-                </div>
-              </div>
-            </li>
-            {/* TIMELINE ITEM ENDS */}
-            {/* TIMELINE ITEM STARTS */}
-            <li>
-              <div className="animated-layer fade-in-down-animation fadeInUp wow">
-                <div className="experience">
                   <h4>Web Developer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2010 - 2015</span>
+                    <span>2021 - Now</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Facebook</span>
+                    <span>OGK Creative</span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            {/* TIMELINE ITEM ENDS */}
+            {/* TIMELINE ITEM STARTS */}
+            <li>
+              <div className="animated-layer fade-in-up-animation fadeInUp wow">
+                <div className="experience">
+                  <h4>Masters Degree</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>2018 - 2020</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <span>University of Miami</span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            {/* TIMELINE ITEM ENDS */}
+            {/* TIMELINE ITEM STARTS */}
+            <li>
+              <div className="animated-layer fade-in-down-animation fadeInUp wow">
+                <div className="experience">
+                  <h4>Web Design Intern</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>Summer 2019</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <span>PG Media</span>
                   </p>
                 </div>
               </div>
@@ -268,14 +228,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Master Degree</h4>
+                  <h4>Bachelor of Business Administration</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2003</span>
+                    <span>2018</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>London University</span>
+                    <span>University of Miami</span>
                   </p>
                 </div>
               </div>
@@ -285,14 +245,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Bachelor Degree</h4>
+                  <h4>Graphic Design Intern</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>1999</span>
+                    <span>2018 - 2019</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Berlin High School</span>
+                    <span>Miami Life Alliance</span>
                   </p>
                 </div>
               </div>
