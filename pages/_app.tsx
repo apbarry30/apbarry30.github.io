@@ -18,14 +18,8 @@ import { Fragment } from "react";
 
 import type { AppProps } from 'next/app'
 
-function MyApp({ Component, pageProps }) {
-  return
-  <Fragment>
-    <SalimovHead />
-    <Switcher />
-    <Preloader />
-    <Component {...pageProps} />
-  </Fragment>
+function MyApp({ Component, pageProps }: AppProps) {
+  return <Component {...pageProps} />
 }
 
 export default MyApp
