@@ -1,18 +1,12 @@
-// /** @type {import('next').NextConfig} */
-// const nextConfig = {
-//   reactStrictMode: true,
-// }
-//
-
-
 /**
- * @type {import('next').NextConfig}
- */
-const nextConfig = {
-  reactStrictMode: true,
+   * @type {import('next').NextConfig}
+   */
+const nextConfig   = {
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
+  assetPrefix: './',
+};
 
-  output: 'export',
-  distDir: 'dist',
-}
-
-module.exports = nextConfig
+export default nextConfig;
