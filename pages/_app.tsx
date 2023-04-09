@@ -24,7 +24,6 @@ function MyApp({ Component, pageProps }: AppProps) {
     <SalimovHead />
     <Switcher />
     <Preloader />
-    <Component {...pageProps} />
   </Fragment>
 }
 
